@@ -1,11 +1,8 @@
-<h1 align="center">Olá, eu me chamo Henrique!</h1>
-<img src="https://i.imgur.com/ZpD0jjL.gif" width="30%" height="30%" align="right"> 
-<br><br><br>
-<p>📚- Cursando Engenharia da Computação (UERJ)</p>
-<p>📘- Dev JavaScript e seus Frameworks</p>
-<p>🏡- Apaixonado pelo meu Rio, RJ</p>
-<p>⚽- Futebol nos tempos vagos</p>
-<p>🐕- Amo o mundo animal</p>
+# Hi everyone 🖖🏻
+
+## 🚀 About Me
+
+I'm a Computer Engineering student and currently a Front-end Web Developer. I am always studying and learning new technologies. Here are all my projects made in courses and personal projects.
 <br>
 </h4>
 <br>
@@ -38,8 +35,4 @@
   <br>
   <br>
   <div align="center">
-
-  ![Snake animation](https://github.com/juxxnn/juxxnn/blob/output/github-contribution-grid-snake.svg)
-
-</div>
 
