@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1 align="center">Hello, World!</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Spyke27&label=Profile%20views&color=0e75b6&style=flat" alt="Spyke27" /></p>
+Olá, eu me chamo Henrique!<br>
 
-<!--
-**HenriqueMarts/HenriqueMarts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://i.imgur.com/ZpD0jjL.gif" width="30%" height="30%" align="right"> 
+<br><br><br>
+<p>📚- Cursando Engenharia da Computação (UERJ)</p>
+<p>📘- Dev JavaScript e seus Frameworks</p>
+<p>🏡- Apaixonado pelo meu Rio, RJ</p>
+<p>⚽- Jogador de futebol nos tempos vagos</p>
+<p>🐕- Amo meu labrador Átomo</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Wallpaper](https://images.wallpaperscraft.com/image/single/silhouettes_dinosaur_planet_132209_1280x720.jpg)](https://github.com/dinosoid)
