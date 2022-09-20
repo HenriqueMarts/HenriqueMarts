@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Spyke27&label=Profile%20views&color=0e75b6&style=flat" alt="Spyke27" /></p>
 Olá, eu me chamo Henrique!<br>
 
-<img src="https://giphy.com/gifs/dog-labrador-6Umkh0GwRYhfG" width="30%" height="30%" align="right"> 
+<img src="https://giphy.com/embed/6Umkh0GwRYhfG" width="30%" height="30%" align="right"> 
 <br><br><br>
 
 <br><br><br>
