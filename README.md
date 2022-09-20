@@ -12,8 +12,8 @@
 <!--<img src="" width="30%" height="30%" align="right">-->
 <div>
 <a href="https://github.com/HenriqueMarts">
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=HenriqueMarts&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueMarts&layout=compact&langs_count=7&theme=radical"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=HenriqueMarts&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueMarts&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <br>
 <div  align="center"> 
