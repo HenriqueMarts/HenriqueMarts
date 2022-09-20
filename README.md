@@ -14,7 +14,7 @@
 <br>
 <h4 align="center">
 
-<img height="400px" width="100%" src="https://i.imgur.com/iFruj2Y.gif">
+<img height="400px" width="100%" src="https://imgur.com/EFlrJne">
 </h4>
 <br>
 <!--<img src="" width="30%" height="30%" align="right">-->
