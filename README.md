@@ -7,9 +7,6 @@
 <p>⚽- Futebol nos tempos vagos</p>
 <p>🐕- Amo o mundo animal</p>
 <br>
-<h4 align="center">
-
-<img height="400px" width="100%" src="https://i.imgur.com/EFlrJne">
 </h4>
 <br>
 <!--<img src="" width="30%" height="30%" align="right">-->
@@ -34,9 +31,9 @@
  <br>
   <div align="center">
   <h3>Contatos</h3>
-  <a href="https://www.linkedin.com/in/rodrigo-daniell" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://discord.gg/nNGuZJXS" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"target="_blank"></a>
-<a href = "mailto:rodrigoeufrasio2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="www.linkedin.com/in/henrique-marts" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://discord.gg/Fnv7rWyH" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"target="_blank"></a>
+<a href = "mailto:henrique.engenharia.ele@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
   <br>
   <br>
