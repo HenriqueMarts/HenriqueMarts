@@ -1,6 +1,4 @@
-<h1 align="center">Hello, World!</h1>
-Olá, eu me chamo Henrique!<br>
-
+<h1 align="center">Olá, eu me chamo Henrique!</h1>
 <img src="https://i.imgur.com/ZpD0jjL.gif" width="30%" height="30%" align="right"> 
 <br><br><br>
 
@@ -11,4 +9,5 @@ Olá, eu me chamo Henrique!<br>
 <p>⚽- Futebol nos tempos vagos</p>
 <p>🐕- Amo o mundo animal</p>
 
-[![Wallpaper](https://images.wallpaperscraft.com/image/single/labrador_dog_collar_120276_1366x768.jpg)](https://github.com/HenriqueMarts)
+[![Wallpaper](https://images.wallpaperscraft.com/image/single/labrador_teeth_dog_muzzle_115208_1366x768.jpg)](https://github.com/HenriqueMarts)
+
