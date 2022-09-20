@@ -9,8 +9,8 @@ I'm a Computer Engineering student and currently a Front-end Web Developer. I am
 <!--<img src="" width="30%" height="30%" align="right">-->
 <div>
 <a href="https://github.com/HenriqueMarts">
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=HenriqueMarts&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueMarts&layout=compact&langs_count=7&theme=dark"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=HenriqueMarts&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueMarts&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <br>
 <div  align="center"> 
