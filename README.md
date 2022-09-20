@@ -1,5 +1,5 @@
 <h1 align="center">Olá, eu me chamo Henrique!</h1>
-<img src="https://imgur.com/a/5tYwVYo" width="30%" height="30%" align="right"> 
+<img src="https://i.imgur.com/ZpD0jjL.gif" width="30%" height="30%" align="right"> 
 <br><br><br>
 <p>📚- Cursando Engenharia da Computação (UERJ)</p>
 <p>📘- Dev JavaScript e seus Frameworks</p>
